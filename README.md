@@ -88,3 +88,6 @@ The application consists of **Admin**, **Author**, and **Showcase** panels.
 
 🔗 [abdullah.haktan.com.tr](http://abdullah.haktan.com.tr)  
 
+🌐 Live Portfolio
+
+abdullah.haktan.com.tr/Default/AbdullahhaktanCV
