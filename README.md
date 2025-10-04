@@ -15,7 +15,7 @@ Repository Design Pattern
 
 Fluent Validation
 
-Identity Framework
+Identity DbContext
 
 LINQ Sorguları
 
